@@ -10,7 +10,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #f50000;
+  background-image: linear-gradient(to right top, #8093ea, #2a3bf5);
 }
 .container{
   position: relative;
